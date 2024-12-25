@@ -37,6 +37,9 @@ const syntaxStress = {
   <a href="https://git.io/streak-stats" title="Go to Source">
     <img alt="syntaxStress's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxStress&theme=radical&border=61dafb&hide_border=true" height="300px" width="300px"/>
   </a>
+	<a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"  height="300px" width="300px/>
+	</a >
 </p>
 <br />
 
